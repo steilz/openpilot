@@ -293,6 +293,18 @@
         <source>Review</source>
         <translation>Revisar</translation>
     </message>
+    <message>
+        <source>Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer.</source>
+        <translation>Pareie seu dispositivo com comma connect (connect.comma.ai) e reivindique sua oferta de comma prime.</translation>
+    </message>
+    <message>
+        <source>Pair Device</source>
+        <translation>Parear Dispositivo</translation>
+    </message>
+    <message>
+        <source>PAIR</source>
+        <translation>PAREAR</translation>
+    </message>
 </context>
 <context>
     <name>DriverViewWindow</name>
@@ -477,6 +489,29 @@
     </message>
 </context>
 <context>
+    <name>OnroadAlerts</name>
+    <message>
+        <source>openpilot Unavailable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waiting for controls to start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TAKE CONTROL IMMEDIATELY</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Controls Unresponsive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reboot Device</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PairingPopup</name>
     <message>
         <source>Pair your device to your comma account</source>
@@ -598,6 +633,10 @@
     <message>
         <source>ft</source>
         <translation>pés</translation>
+    </message>
+    <message>
+        <source>now</source>
+        <translation>agora</translation>
     </message>
 </context>
 <context>
