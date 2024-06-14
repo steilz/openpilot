@@ -28,7 +28,7 @@ fi
 
 # Install brew if required
 if [[ $(command -v brew) == "" ]]; then
-  echo "Installing Hombrew"
+  echo "Installing Homebrew"
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
   echo "[ ] installed brew t=$SECONDS"
 
@@ -59,7 +59,8 @@ brew "libusb"
 brew "libtool"
 brew "llvm"
 brew "openssl@3.0"
-brew "python@3.11"
+brew "pyenv"
+brew "pyenv-virtualenv"
 brew "qt@5"
 brew "zeromq"
 cask "gcc-arm-embedded"
